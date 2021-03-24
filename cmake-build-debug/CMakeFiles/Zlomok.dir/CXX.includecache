@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roman/CLionProjects/MAP2020/Zlomok/main.cpp
+iostream
+-
+zlomok.h
+/home/roman/CLionProjects/MAP2020/Zlomok/zlomok.h
+
+/home/roman/CLionProjects/MAP2020/Zlomok/zlomok.h
+iosfwd
+-
+

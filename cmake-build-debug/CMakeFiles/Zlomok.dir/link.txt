@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Zlomok.dir/main.cpp.o CMakeFiles/Zlomok.dir/zlomok.cpp.o  -o Zlomok 
